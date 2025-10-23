@@ -7,11 +7,11 @@ This project demonstrates advanced SQL techniques on a dataset of over 1 million
 ⸻
 
 Table of Contents
-	•	Project Overview
-	•	Database Schema
-	•	Skills Highlighted
-	•	Key Business Questions Solved
-	•	Performance Optimization
+- Project Overview
+- Database Schema
+- Skills Highlighted
+- Key Business Questions Solved
+- Performance Optimization
 
 ⸻
 
