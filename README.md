@@ -6,7 +6,7 @@ This project demonstrates advanced SQL techniques on a dataset of over 1 million
 
 ⸻
 
-###Table of Contents
+### Table of Contents
 - Project Overview
 - Database Schema
 - Skills Highlighted
@@ -15,7 +15,7 @@ This project demonstrates advanced SQL techniques on a dataset of over 1 million
 
 ⸻
 
-###Project Overview
+### Project Overview
 
 The goal of this project is to analyze Apple retail sales data to provide insights on:
 - Store performance across regions and countries
@@ -32,21 +32,14 @@ The database consists of five main tables:
 <img width="1297" height="734" alt="Bildschirmfoto 2025-10-23 um 15 02 16" src="https://github.com/user-attachments/assets/5f9bdd03-e1ef-495e-af51-ec4c031d6d81" />
 Table
 
-| Spalte 1     | Spalte 2     |
+| Table     | Description     |
 |-------------|-------------|
-| Wert 1      | Wert 2      |
-| Wert 4      | Wert 5      | 
-Description
-stores
-Apple retail store information (store ID, name, city, country)
-category
-Product categories (category ID, category name)
-products
-Apple product details (product ID, name, launch date, price)
-sales
-Sales transactions (sale date, store ID, product ID, quantity)
-warranty
-Warranty claims (claim date, repair status)
+| stores      | Apple retail store information (store ID, name, city, country)    |
+| category    | Product categories (category ID, category name)      | 
+| products      | Apple product details (product ID, name, launch date, price)    |
+| sales    | Sales transactions (sale date, store ID, product ID, quantity)      | 
+| warranty    | Warranty claims (claim date, repair status)      |
+
 
 Skills Highlighted
 	•	Performance Optimization: Created indexes to significantly improve query execution speed
