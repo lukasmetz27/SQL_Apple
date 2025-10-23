@@ -44,24 +44,24 @@ The database consists of five main tables:
 <br/>
 
 ### Skills Highlighted
-	•	Performance Optimization: Created indexes to significantly improve query execution speed
-	•	Window Functions: Used for running totals, ranking, and growth analysis
-	•	Complex Joins & Aggregations: Integrated multiple tables to derive meaningful insights
-	•	Data Segmentation: Analyzed trends across different timeframes, regions, and categories
-	•	Correlation Analysis: Explored relationships between variables such as product price and warranty claims
+- Performance Optimization: Created indexes to significantly improve query execution speed
+- Window Functions: Used for running totals, ranking, and growth analysis
+- Complex Joins & Aggregations: Integrated multiple tables to derive meaningful insights
+- Data Segmentation: Analyzed trends across different timeframes, regions, and categories
+- Correlation Analysis: Explored relationships between variables such as product price and warranty claims
 
 ⸻
 
 ### Key Business Questions Solved
-	•	Which stores have the highest sales performance?
-	•	What are the top-selling and least-selling products per country and year?
-	•	What percentage of warranty claims were completed or rejected per store?
-	•	How do product categories perform relative to price and sales trends?
-	•	What insights can be drawn from warranty claim patterns to improve customer satisfaction?
+- Which stores have the highest sales performance?
+- What are the top-selling and least-selling products per country and year?
+- What percentage of warranty claims were completed or rejected per store?
+- How do product categories perform relative to price and sales trends?
+- What insights can be drawn from warranty claim patterns to improve customer satisfaction?
 
 ⸻
 
 ### Performance Optimization
-	•	Implemented indexes on frequently joined columns to reduce query execution time
-	•	Leveraged CTEs and subqueries for modular and readable SQL
-	•	Optimized aggregations and window functions to handle millions of rows efficiently
+- Implemented indexes on frequently joined columns to reduce query execution time
+- Leveraged CTEs and subqueries for modular and readable SQL
+- Optimized aggregations and window functions to handle millions of rows efficiently
