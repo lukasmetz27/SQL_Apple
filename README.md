@@ -30,7 +30,8 @@ By leveraging advanced SQL features, the project addresses real-world business c
 The database consists of five main tables:
 
 <img width="1297" height="734" alt="Bildschirmfoto 2025-10-23 um 15 02 16" src="https://github.com/user-attachments/assets/5f9bdd03-e1ef-495e-af51-ec4c031d6d81" />
-Table
+<br/>
+
 
 | Table     | Description     |
 |-------------|-------------|
@@ -40,8 +41,9 @@ Table
 | sales    | Sales transactions (sale date, store ID, product ID, quantity)      | 
 | warranty    | Warranty claims (claim date, repair status)      |
 
+<br/>
 
-Skills Highlighted
+### Skills Highlighted
 	•	Performance Optimization: Created indexes to significantly improve query execution speed
 	•	Window Functions: Used for running totals, ranking, and growth analysis
 	•	Complex Joins & Aggregations: Integrated multiple tables to derive meaningful insights
@@ -50,7 +52,7 @@ Skills Highlighted
 
 ⸻
 
-Key Business Questions Solved
+### Key Business Questions Solved
 	•	Which stores have the highest sales performance?
 	•	What are the top-selling and least-selling products per country and year?
 	•	What percentage of warranty claims were completed or rejected per store?
@@ -59,7 +61,7 @@ Key Business Questions Solved
 
 ⸻
 
-Performance Optimization
+### Performance Optimization
 	•	Implemented indexes on frequently joined columns to reduce query execution time
 	•	Leveraged CTEs and subqueries for modular and readable SQL
 	•	Optimized aggregations and window functions to handle millions of rows efficiently
